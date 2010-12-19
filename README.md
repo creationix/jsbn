@@ -106,7 +106,7 @@ On similar hardware, running IE6:
 <tr><td align=left>RSA 1024-bit (e=F4)</td><td align=center>220ms</td><td align=center>4.3s</td></tr>
 </table>
 
-Timing measurememnts, especially under IE, appear to have limited
+Timing measurements, especially under IE, appear to have limited
 precision for faster operations.
 
 History
