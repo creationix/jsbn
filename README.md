@@ -113,6 +113,9 @@ History
 -------
 
 <dl>
+<dt><b>Version 1.2 (3/29/2011):</b></dt>
+<dd>Added <code>square</code> method to improve ECC performance.
+<dd>Use randomized bases in <code>isProbablePrime</code>
 <dt><b>Version 1.1 (9/15/2009):</b></dt>
 <dd>Added support for utf-8 encoding of non-ASCII characters
 when PKCS1 encoding and decoding JavaScript strings.
@@ -126,5 +129,3 @@ Licensing
 See [`LICENSE`](LICENSE) for details.
 
 [Tom Wu](mailto:tjw@cs.stanford.edu)
-
-Last modified: Tue Sep 15 23:30:00 PST 2009
