@@ -113,6 +113,8 @@ History
 -------
 
 <dl>
+<dt><b>Version 1.3 (7/3/2012):</b></dt>
+<dd>Fixed bug when comparing negative integers of different word lengths.
 <dt><b>Version 1.2 (3/29/2011):</b></dt>
 <dd>Added <code>square</code> method to improve ECC performance.
 <dd>Use randomized bases in <code>isProbablePrime</code>
